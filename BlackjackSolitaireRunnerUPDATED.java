@@ -3,6 +3,6 @@ public class BlackjackSolitaireRunner {
 	
 	public static void main(String[] args) {
 		BlackjackSolitaire bjs = new BlackjackSolitaire();
-		bjs.play();
+		System.out.println("deleted the call to the play method.");
 	}
 }
